@@ -24,8 +24,8 @@
 <p align="center">
 <!--     <i> 📈 GitHub Stats</i> -->
         <p align="center">
-       <a href="https://github.com/Rhishikesh12?tab=repositories" target="_blank" rel="noreferrer"><img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=thakur-afk&bg_color=0E1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" /></a> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rhishikesh12&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
+       <a href="https://github.com/thakur-afk?tab=repositories" target="_blank" rel="noreferrer"><img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=thakur-afk&bg_color=0E1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" /></a> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thakur-afk&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
             </p>
 </p>
 <!-- <p align="center">
